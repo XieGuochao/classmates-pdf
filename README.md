@@ -36,4 +36,4 @@ Feel free to modify python codes. You may need to pay attention to the licenses 
 
 ## Contact
 
-Contact me on [gx@apartsa.com](mailto://gx@apartsa.com).
+Contact me on [gx@apartsa.com](mailto:gx@apartsa.com).
